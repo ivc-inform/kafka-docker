@@ -21,6 +21,7 @@ The image is available directly from [Docker Hub](https://hub.docker.com/r/wurst
 Start a cluster:
 
 - ```docker-compose up -d ```
+- ```docker-compose up --build -d ```
 
 Add more brokers:
 
